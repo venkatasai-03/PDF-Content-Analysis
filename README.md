@@ -42,9 +42,9 @@ python -m venv venv
 venv\Scripts\activate      # On Windows
 
 
-#Reqirements
+## Reqirements
 
 pip install pymupdf flask
 
-#To run
+## To run
 python main.py
