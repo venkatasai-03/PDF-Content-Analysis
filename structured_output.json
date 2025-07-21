@@ -1,0 +1,169 @@
+[
+  {
+    "question": "From page 1: 1 \n \nCLASS 1 SAMPLE PAPER 1 \n \n \nSECTION-01   LOGICAL REASONING \n1. Find the next figures in the fig...",
+    "images": "static/output_images/page1_image1.jpeg",
+    "option_images": [
+      "static/output_images/page1_image2.png",
+      "static/output_images/page1_image3.png",
+      "static/output_images/page1_image4.png"
+    ]
+  },
+  {
+    "question": "From page 1: 1 \n \nCLASS 1 SAMPLE PAPER 1 \n \n \nSECTION-01   LOGICAL REASONING \n1. Find the next figures in the fig...",
+    "images": "static/output_images/page1_image5.png",
+    "option_images": [
+      "static/output_images/page1_image6.png",
+      "static/output_images/page1_image7.png",
+      "static/output_images/page1_image8.png"
+    ]
+  },
+  {
+    "question": "From page 1: 1 \n \nCLASS 1 SAMPLE PAPER 1 \n \n \nSECTION-01   LOGICAL REASONING \n1. Find the next figures in the fig...",
+    "images": "static/output_images/page1_image9.png",
+    "option_images": [
+      "static/output_images/page1_image10.png"
+    ]
+  },
+  {
+    "question": "From page 2: 2 \n \n \n[C] \n \n[D] \n \nAns [C] \n \n3. In the questions given below, the series with one or more \nterms ...",
+    "images": "static/output_images/page2_image1.jpeg",
+    "option_images": [
+      "static/output_images/page2_image2.png",
+      "static/output_images/page2_image3.png",
+      "static/output_images/page2_image4.png"
+    ]
+  },
+  {
+    "question": "From page 2: 2 \n \n \n[C] \n \n[D] \n \nAns [C] \n \n3. In the questions given below, the series with one or more \nterms ...",
+    "images": "static/output_images/page2_image5.png",
+    "option_images": [
+      "static/output_images/page2_image6.jpeg",
+      "static/output_images/page2_image7.png"
+    ]
+  },
+  {
+    "question": "From page 3: 3 \n \nAns [D] \n \nSECTION-02   MATHEMATICS \n \n6. A programme of children ended at the time shown on th...",
+    "images": "static/output_images/page3_image1.jpeg",
+    "option_images": [
+      "static/output_images/page3_image2.png"
+    ]
+  },
+  {
+    "question": "From page 4: 4 \n \n8. Count and write the amount of money. \n \n \n[A] Rs 70.00 [B] Rs 76.01 \n \n[C] Rs 75.40 [D] Rs 8...",
+    "images": "static/output_images/page4_image1.jpeg",
+    "option_images": [
+      "static/output_images/page4_image2.jpeg",
+      "static/output_images/page4_image3.png",
+      "static/output_images/page4_image4.png"
+    ]
+  },
+  {
+    "question": "From page 4: 4 \n \n8. Count and write the amount of money. \n \n \n[A] Rs 70.00 [B] Rs 76.01 \n \n[C] Rs 75.40 [D] Rs 8...",
+    "images": "static/output_images/page4_image5.png",
+    "option_images": []
+  },
+  {
+    "question": "From page 5: 5 \n \n \n[C] \n [D] \n \nAns [B] \n \n10. Sonia bought 45 candies. She gave 22 cookies to her sister. \nHow ...",
+    "images": "static/output_images/page5_image1.jpeg",
+    "option_images": [
+      "static/output_images/page5_image2.png",
+      "static/output_images/page5_image3.png",
+      "static/output_images/page5_image4.png"
+    ]
+  },
+  {
+    "question": "From page 5: 5 \n \n \n[C] \n [D] \n \nAns [B] \n \n10. Sonia bought 45 candies. She gave 22 cookies to her sister. \nHow ...",
+    "images": "static/output_images/page5_image5.png",
+    "option_images": []
+  },
+  {
+    "question": "From page 6: 6 \n \n13. \n \n \n \n \nObject _______________ is the heaviest. \n \n[A] 3 \n[B] 5 \n \n[C] 4 \n[D] 1 \nAns [C] \n...",
+    "images": "static/output_images/page6_image1.jpeg",
+    "option_images": [
+      "static/output_images/page6_image2.png",
+      "static/output_images/page6_image3.png"
+    ]
+  },
+  {
+    "question": "From page 7: 7 \n \n16. Which of the following clocks shows 30 minutes after 4 \nO\u2019clock? \n \n[A] \n \n \n[B] \n \n \n[C] \n...",
+    "images": "static/output_images/page7_image1.jpeg",
+    "option_images": []
+  },
+  {
+    "question": "From page 8: 8 \n \n18. Tanshu spent Rs 35.70 on a ball and Rs 50.30 on a toy car. \nHow much did he spend altogethe...",
+    "images": "static/output_images/page8_image1.jpeg",
+    "option_images": [
+      "static/output_images/page8_image2.jpeg",
+      "static/output_images/page8_image3.jpeg",
+      "static/output_images/page8_image4.jpeg"
+    ]
+  },
+  {
+    "question": "From page 8: 8 \n \n18. Tanshu spent Rs 35.70 on a ball and Rs 50.30 on a toy car. \nHow much did he spend altogethe...",
+    "images": "static/output_images/page8_image5.jpeg",
+    "option_images": [
+      "static/output_images/page8_image6.png",
+      "static/output_images/page8_image7.png",
+      "static/output_images/page8_image8.png"
+    ]
+  },
+  {
+    "question": "From page 8: 8 \n \n18. Tanshu spent Rs 35.70 on a ball and Rs 50.30 on a toy car. \nHow much did he spend altogethe...",
+    "images": "static/output_images/page8_image9.png",
+    "option_images": []
+  },
+  {
+    "question": "From page 9: 9 \n \n21. Which of the following is smallest? \n \n \nAns [C] \n \n22. 6 hundreds 3 tens 2 ones \u2013 3 hundre...",
+    "images": "static/output_images/page9_image1.jpeg",
+    "option_images": [
+      "static/output_images/page9_image2.png",
+      "static/output_images/page9_image3.png",
+      "static/output_images/page9_image4.png"
+    ]
+  },
+  {
+    "question": "From page 9: 9 \n \n21. Which of the following is smallest? \n \n \nAns [C] \n \n22. 6 hundreds 3 tens 2 ones \u2013 3 hundre...",
+    "images": "static/output_images/page9_image5.png",
+    "option_images": [
+      "static/output_images/page9_image6.png"
+    ]
+  },
+  {
+    "question": "From page 10: 10 \n \nAns [D] \n \n25. Tanya has following two pencils. \n \n \n \n \nFind the total length of both the pen...",
+    "images": "static/output_images/page10_image1.jpeg",
+    "option_images": [
+      "static/output_images/page10_image2.png",
+      "static/output_images/page10_image3.png",
+      "static/output_images/page10_image4.png"
+    ]
+  },
+  {
+    "question": "From page 11: 11 \n \n28. Sumit has following flowers and balloons. \n \n \n \nWhich statement is true? \n \n[A] Flowers a...",
+    "images": "static/output_images/page11_image1.jpeg",
+    "option_images": [
+      "static/output_images/page11_image2.png",
+      "static/output_images/page11_image3.png",
+      "static/output_images/page11_image4.jpeg"
+    ]
+  },
+  {
+    "question": "From page 12: 12 \n \nAns [B] \n \nACHIEVER SECTION \n \n31. How much do the counters add up to? \n \n \n[A] 253 \n[B] 235 \n...",
+    "images": "static/output_images/page12_image1.jpeg",
+    "option_images": [
+      "static/output_images/page12_image2.png"
+    ]
+  },
+  {
+    "question": "From page 13: 13 \n \n \n[A] 9 \n[B] 15 \n \n[C] 18 \n[D] 12 \nAns [D] \n \n33. Fill in the blank:  \n \nThe book is _________...",
+    "images": "static/output_images/page13_image1.jpeg",
+    "option_images": [
+      "static/output_images/page13_image2.png",
+      "static/output_images/page13_image3.png"
+    ]
+  },
+  {
+    "question": "From page 14: 14 \n \nAns [B]...",
+    "images": "static/output_images/page14_image1.jpeg",
+    "option_images": []
+  }
+]
